@@ -32,5 +32,7 @@ Let's collaborate, share ideas, and make awesome things together!
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
+This is still be updated ! give me a few days ..
+
 Thanks for giving me some time, Peace x
 
