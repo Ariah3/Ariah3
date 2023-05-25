@@ -5,22 +5,22 @@ Hey i'm Ariah 👋 Welcome to my GitHub profile. This Readme file is designed to
 ## About Me
 
 - 🌱 I'm a passionate learner that is constantly testing the stamina of my hyperfocus.
-- 💻 Im currently working on strengthening my fondations in python & SQL.
-- 🎓 I'm starting my path in the hopes to become a data analyst but will be dabbling in frontend developing too.
-- 😄 Pronouns: She/Her .
+- 💻 Im currently working on strengthening my fondations in python, HTML & Java.
+- 🎓 I'm just starting my journey but I hope to become an analyst or a developer
 
 
 ## Skills
 
 These are some of the key skills I've developed along my journey:
 
-- Programming Languages currently learning: Pthon, Java, HTML, SQL
-- Knowledge with SPSS, Excel
-- Confident in presenting  
+- Languages currently learning: Python & HTML
+- Prior knowledge with SPSS, Excel
+- Confidence in presenting, researching  
+
 
 ## Get in Touch
 
-I'm always excited to connect with fellow developers and learn from others. Feel free to reach out to me through the following channels:- 
+Feel free to reach out to me through the following channels:- 
 - [LinkedIn](https://www.linkedin.com/in/ariah-fernandes-68bb95167)
 - [Instagram](https://www.instagram.com/xariyahx)
 
@@ -29,7 +29,7 @@ Let's collaborate, share ideas, and make awesome things together!
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ariah3&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
 This is still be updated ! give me a few days ..
