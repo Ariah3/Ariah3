@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hey i'm Ariah 👋 <br>
+    Hey i'm Ariah 👋 <br>
 (like Mariah, but without the M) 
 
 ## About Me
