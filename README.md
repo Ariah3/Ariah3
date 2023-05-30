@@ -1,13 +1,13 @@
 # Welcome to My GitHub Profile!
 
-    Hey i'm Ariah 👋 <br>
+Hey i'm Ariah 👋 <br>
 (like Mariah, but without the M) 
 
 ## About Me
 
 - 🌱 I enjoy a good challenge, 
-- 💻 Im currently learning the foundations in html,py before I start learning data analytics,
-- 🎓 I'm just starting my journey but I'm hoping to become a data analyst; but I really like the this side too. 
+- 💻 Im currently learning the foundations in html, py before I start learning data analytics,
+- 🎓 I'm just starting my journey but I'm hoping to become a data analyst; but I really like this darkside too. 
 
 
 ## Skills
