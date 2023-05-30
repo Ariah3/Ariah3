@@ -32,5 +32,5 @@ Feel free to reach out to me through the following channels:-
   <img src="https://github-readme-stats.vercel.app/api?username=Ariah3&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
-Thanks for giving me some time, Peace x
+                                                Thanks for giving me some time, Peace x
 
